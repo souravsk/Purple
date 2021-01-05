@@ -1,0 +1,10 @@
+Title:		Computer Science Distilled: Learn the Art of Solving Computational Problems
+Edition:	1
+Published:	January 2017
+Author: 	Wladston Ferreira Filho
+Language:	English
+Format:		PDF	
+Publisher: 	Code Energy LLC
+ISBN-13: 	9780997316001
+Pages: 		182
+Price: 		35.00 USD

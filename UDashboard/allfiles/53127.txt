@@ -1,0 +1,18 @@
+1. Fix Search button not working.
+2. Fix Purple Contact Us Section.
+3. Fix responsiveness of profile page.
+4. Fix Default image for profile of a New user.
+5. Fix CSS for Drop-down items.
+6. Fix Edit Profile button on Profile page.
+4. Add :- New Upload-Notification in Dashboard Page.
+                Update-Bio Notification in Dashboard Page.
+                Auto-Email Notify for new uploads.
+                Auto-reply-email for thanks-giving after a suggestion is submitted.
+                Auto-reply on Successful account creation.
+                Auto-email-notify after Notes Approval.
+               
+ 			Update Bio Notification :
+ 					if Bio is N/A 
+    						then 
+           					notification : Update bio or profile.
+           
