@@ -6,37 +6,37 @@ manage all kinds of Notes by uploading it unified place.
 
 Awesome Features :
 
- Upload Various Files - User can upload various
+- Upload Various Files - User can upload various
 types of files like PDF, PPT, and DOC etc...
 
- Both for Teachers and Student - Both teacher and
+- Both for Teachers and Student - Both teacher and
 student can login and upload notes.
 
- Functional Admin Panel - Allows admins to manage
+- Functional Admin Panel - Allows admins to manage
 the whole system.
 
- Security - Secure registration and login option for
+- Security - Secure registration and login option for
 users.
 
- Easily Download and Upload : Allows students and
+- Easily Download and Upload : Allows students and
 teachers to download/upload their course notes
 easily
 
- Auto Email Notification: Notify users when new
+- Auto Email Notification: Notify users when new
 notes are posted.
 
- Controlled by admin: Everything is managed and
+- Controlled by admin: Everything is managed and
 controlled by administrator.
 
- Multiple User Access: Allows multiple type of users
+- Multiple User Access: Allows multiple type of users
 (Teacher Student Admin) to login.
 
- Clean Code Design: Best User Interference and
+- Clean Code Design: Best User Interference and
 saves time, super easy to use.
 
 
 TOOLS:
 
- WEB SERVER : Xampp
+- WEB SERVER : Xampp
 
- BROWSER : Chrome
+- BROWSER : Chrome
