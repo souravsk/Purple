@@ -1,4 +1,4 @@
-# purple
+# Purple
 Online Notes System ( Purple Notes )
 Purple Notes Management system allows you to easily
 manage all kinds of Notes by uploading it unified place.
